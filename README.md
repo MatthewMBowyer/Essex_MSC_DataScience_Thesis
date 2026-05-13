@@ -35,3 +35,17 @@ The public dataset only includes processed and anonymised data. This means:
 Large processed and anonymised files are hosted separately on Zenodo:
 
 **Zenodo dataset:** https://zenodo.org/records/20160369
+
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.20160369
+
+## License and citation
+
+Code in this repository is released under the MIT License.
+
+The processed and anonymised dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless stated otherwise on the Zenodo record.
+
+If you use this repository or dataset, please cite the thesis project and Zenodo dataset.
+
+## Disclaimer
+
+This repository is academic research code and a proof of concept. It is not a production driver scoring system.
