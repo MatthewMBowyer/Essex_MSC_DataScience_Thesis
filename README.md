@@ -1,4 +1,4 @@
-# A Multimodal Driver behaviour Evaluation System: Combining Telematics, VLMs and LLMs
+# A Multimodal Driver behavior Evaluation System: Combining Telematics, VLMs and LLMs
 
 This repository contains the code for my MSc Data Science thesis:
 
